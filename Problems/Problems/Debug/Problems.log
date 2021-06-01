@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\Projects\ProjectEuler100\Problems\Problems\problem7.h(21,33): warning C4018: '<': signed/unsigned mismatch
+E:\Projects\ProjectEuler100\Problems\Problems\problem7.h(23,19): warning C4018: '<=': signed/unsigned mismatch
+E:\Projects\ProjectEuler100\Problems\Problems\problem7.h(30,42): warning C4018: '<': signed/unsigned mismatch
+E:\Projects\ProjectEuler100\Problems\Problems\problem7.h(49,27): warning C4018: '<': signed/unsigned mismatch
+E:\Projects\ProjectEuler100\Problems\Problems\problem7.h(42,8): warning C4102: 'next': unreferenced label
+  Problems.vcxproj -> E:\Projects\ProjectEuler100\Problems\Debug\Problems.exe
