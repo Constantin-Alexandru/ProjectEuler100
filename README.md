@@ -1,4 +1,4 @@
-# Solutions for the [Project Euler](https://projecteuler.net/about)
+# Solutions for the [Project Euler](https://projecteuler.net/about) problems
 
 Project Euler is a website created in 2001 that hosts over 700 problems that get progressively harder.
 
